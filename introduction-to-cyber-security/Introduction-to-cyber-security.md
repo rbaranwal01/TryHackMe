@@ -1,13 +1,3 @@
-# Module: Introduction to Cyber Security
-
-<sub>4/10/23 - In Progress </sub>
-
-This will teach:
-- Offensive security - hacking my first app
-- Defensive security - defending against a live cyber attack
-- Exploring topics in the industry
-
-
 # Introduction to Cyber Security
 Understand what is offensive and defensive security, and learn about careers available in cyber.
 
@@ -108,15 +98,5 @@ A: Blue team
       - System logs - client and server computer log files reveal lots of info 
       - Network logs - shows which network packets have traversed a network gives details about attack 
 
-# Introduction to Offensive Security 
-## Web Application Security
-
-## Operating System Security
-
-## Network Security
 
 
-# Introduction to Defensive Security 
-## Intro to Digital Forensics 
-
-## Security Operations
