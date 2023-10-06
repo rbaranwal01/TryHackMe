@@ -9,15 +9,15 @@ This will teach:
 
 
 # [Introduction to Cyber Security](Introduction-to-cyber-security.md)
-Intro to Offensive Security 
-Intro to Defensive Security
-Careers in Cyber
+Intro to Offensive Security <br />
+Intro to Defensive Security <br />
+Careers in Cyber <br />
 
 # [Introduction to Offensive Security](introduction-to-offensive-security.md) 
-Web Application Security
-Operating System Security
-Network Security
+Web Application Security <br />
+Operating System Security <br />
+Network Security <br />
 
 # [Introduction to Defensive Security](introduction-to-defensive-security.md) 
-Intro to Digital Forensics 
-Security Operations
+Intro to Digital Forensics <br /> 
+Security Operations <br />
